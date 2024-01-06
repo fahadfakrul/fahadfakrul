@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfakrul&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfakrul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadfakrul&theme=darkhub" alt="fahadfakrul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadfakrul" alt="fahadfakrul" /></a> </p>
 
 - 🌱 I’m currently learning **web development**
 
