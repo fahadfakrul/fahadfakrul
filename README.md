@@ -1,4 +1,4 @@
-<video playsinline="" autoplay="" loop="" style="max-height: 99%; max-width: 99%; min-width: auto; align=center;"><source src="https://cdnl.iconscout.com/lottie/premium/thumb/hello-6618877-5559435.mp4" type="video/mp4"></video>
+
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate programmer</h3>
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g5MGxtdHR6aGhvdzR2a3J5ZGx5eW13MzBxb3R2NWNpbzA1aGZ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/></p>
@@ -25,4 +25,4 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <img src="https://github-readme-stats.vercel.app/api?username=fahadfakrul&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy" alt="GitHub Stats" height="200" width="500"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadfakrul&layout=compact" alt="Top Languages" align="right" height="200" width="300" >
 
-
+<div class="inner" ld="root" style="background: url(&quot;/mod/background/bestagon/index.svg&quot;) center center / cover rgb(255, 255, 255);">
