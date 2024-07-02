@@ -6,11 +6,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadfakrul" alt="fahadfakrul" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **fahadfakrul916@gmail.com**
-  
 
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+- ⚡ Fun fact: Wearing a tie can reduce blood flow to the brain by 7.5 per cent.
+  
+<div align="center" >
+<a  href="https://github.com/fahadfakrul">
+
+<img src="https://raw.githubusercontent.com/fahadfakrul/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/fahadfakrul/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/fahadfakrul/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahad-043617296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-043617296" height="30" width="40" /></a>
