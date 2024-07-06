@@ -15,7 +15,7 @@ I am a 4th-year undergraduate Student at Northern University Bangladesh, pursuin
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-- ⚡ Fun fact: Wearing a tie can reduce blood flow to the brain by 7.5 per cent.
+- ⚡ Fun fact: The Eiffel Tower can be 15 cm taller during the summer, due to thermal expansion meaning the iron heats up, the particles gain kinetic energy and take up more space.
   
 
 
