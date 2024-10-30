@@ -9,7 +9,7 @@
 <h3 align="left">About me:</h3>
 I am a 4th-year undergraduate Student at Northern University Bangladesh, pursuing a Bachelors in Computer Science, who is passionate about Web Development. I am comfortable with the MERN stack and prefer using Tailwind CSS and React. I love to learn and contribute in any and every possible way. <br/>
 
-- 🌱 I’m currently learning **Next.js** and **Python**
+- 🌱 I’m currently learning **TypeScript** and **Python**
 
 - 📫 How to reach me **fahadfakrul916@gmail.com**
 
